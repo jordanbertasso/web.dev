@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sign in Users
+title: Sign in Usersf
 date: 2016-11-08
 updated: 2019-07-22
 authors:
@@ -29,7 +29,7 @@ To enable auto sign-in:
 ### Get credential information
 
 To get credential information, invoke
-[`navigator.credential.get()`](https://developer.mozilla.org/docs/Web/API/CredentialsContainer/get).
+[`navigator.credentials.get()`](https://developer.mozilla.org/docs/Web/API/CredentialsContainer/get).
 Specify the type of credentials to request
 by giving it a `password` or `federated`.
 
